@@ -86,24 +86,24 @@ p {
 }
 
 .benefits {
-    margin-right: 20px;
+    margin-right: 35px;
     padding: 20px;
     clear: both;
     float: right;
     width: 20%;
-    height: 100%;
+    height: 950px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
+    background-color: #2589bd
 }
 
 .search-engine-optimization h2, .social-media-marketing h2, .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
-    background-color: #2589bd;
+    
 }
 
 .search-engine-optimization img, .social-media-marketing img, .online-reputation-management img {
-    max-height: 200px;
+    max-height: 800px;
     
 }
 
